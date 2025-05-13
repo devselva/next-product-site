@@ -147,7 +147,7 @@ Ran `git commit -m "check working pre-commit"` — the pre-commit hook successfu
 
 ---
 
-# 13. Add MongoDB as a container:  #59 [PENDING]
+# 13. Add MongoDB as a container: #59 [PENDING]
 
 - Not Started
 
